@@ -106,5 +106,3 @@ Interview Warmup
 - [Stripe’s payments APIs - The first 10 years](https://stripe.com/blog/payment-api-design)
 - [Real time messaging at Slack](https://slack.engineering/real-time-messaging/)
 
-
-- Credit:- Respective Owner🎊
