@@ -45,7 +45,9 @@ Interview Warmup
 
 
 ## System Design Interview Problems
+
 ### Easy
+
 - [Design Leaderboard](https://systemdesign.one/leaderboard-system-design/)
 - [Design URL Shortener like TinyURL](https://www.youtube.com/watch?v=fMZMm_0ZhK4)
 - [Design Text Storage Service like Pastebin](https://www.youtube.com/watch?v=josjRSBqEBI)
@@ -57,7 +59,9 @@ Interview Warmup
 - [Design Distributed Job Scheduler](https://towardsdatascience.com/ace-the-system-design-interview-job-scheduling-system-b25693817950)
 - [Design Authentication System](https://www.youtube.com/watch?v=uj_4vxm9u90)
 - [Design Unified Payments Interface (UPI)](https://www.youtube.com/watch?v=QpLy0_c_RXk)
+- 
 ### Medium
+
 - [Design Instagram](https://www.youtube.com/watch?v=VJpfO6KdyWE)
 - [Design Tinder](https://www.youtube.com/watch?v=tndzLznxq40)
 - [Design WhatsApp](https://www.youtube.com/watch?v=vvhC64hQZMk)
@@ -81,7 +85,9 @@ Interview Warmup
 - [Design an Analytics Platform (Metrics & Logging)](https://www.youtube.com/watch?v=kIcq1_pBQSY)
 - [Design Notification Service](https://www.youtube.com/watch?v=CUwt9_l0DOg)
 - [Design Payment System](https://www.youtube.com/watch?v=olfaBgJrUBI)
+- 
 ### Hard
+
 - [Design Slack](https://systemdesign.one/slack-architecture/)
 - [Design Live Comments](https://systemdesign.one/live-comment-system-design/)
 - [Design Distributed Counter](https://systemdesign.one/distributed-counter-system-design/)
@@ -99,6 +105,7 @@ Interview Warmup
 - [Design Distributed Locking Service](https://www.youtube.com/watch?v=v7x75aN9liM)
 
 ## Must-Read Engineering Articles
+
 - [How Discord stores trillions of messages](https://discord.com/blog/how-discord-stores-trillions-of-messages)
 - [Building In-Video Search](https://netflixtechblog.com/building-in-video-search-936766f0017c)
 - [How Canva scaled Media uploads from Zero to 50 Million per Day](https://www.canva.dev/blog/engineering/from-zero-to-50-million-uploads-per-day-scaling-media-at-canva/)
